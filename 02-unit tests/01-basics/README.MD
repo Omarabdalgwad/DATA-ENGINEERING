@@ -1,4 +1,7 @@
 ## TO RUN TEST
-``bash
+
+```bash
+
 pytest <name of python test file>
-``
+
+```
